@@ -1,0 +1,71 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>                                             Самый быстрый космический корабль            
+В апреле 2019 года со стартовой площадки космодрома Байконур стартовал транспортный грузовой корабль «Прогресс МС-11». Через 3 часа 21 минуту он совершил стыковку с модулем «Пирс» на МКС – это рекорд по скорости среди всех полётов.
+  Вес груза, который доставил «Прогресс МС-11» – 2.5 тонн. Среди него топливо, вода, баллоны с кислородом, питание и научное оборудование.
+                                            Российская система спутниковой навигации
+  На сегодняшний день в мире действуют две глобальные системы спутниковой навигации – американская GPS и российская ГЛОНАСС. Последняя позволяет определять местоположение с точностью до 2 метров и рассчитана на работу в отечественном сегменте.
+Сегодня на орбите находится 27 спутников, обеспечивающих непрерывную работу ГЛОНАСС. Проект постоянно обновляют и увеличивают его точность, при этом большинство навигаторов использует сразу 2 системы для лучшего определения координат.
+                                             Ядерная энергодвигательная установка
+  Ядерный двигатель для межпланетных перелётов - не имеющая аналогов в мире разработка российских учёных. Именно ЯЭДУ помогает героям фантастических романов о далёком будущем путешествовать между планетами Солнечной системы.
+</value>
+  </data>
+</root>

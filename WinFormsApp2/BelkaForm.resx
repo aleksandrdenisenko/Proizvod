@@ -1,0 +1,65 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>  Белка и Стрелка – собаки-космонавты, которые первыми побывали в космосе. 19 августа 1960 года они совершили полет в космос на корабле «Спутник-5». Длительность этого полета составила более 25 часов. За это время корабль 17 раз обошел вокруг Земли и преодолел расстояние 700 тысяч километров. Белка и Стрелка – первые животные, которые совершили полет в космос и благополучно вернулись на Землю.
+  Главной целью полета Белки и Стрелки в космос было исследование влияния на организм факторов космического полета. Благодаря данному испытанию удалось узнать о реакции живого организма на перегрузки, длительную невесомость и космическую радиацию. Кроме этого, были получены сведения о работе жизнеобеспечивающих систем и безопасности полета. Этот полет позволил провести очень полезные научные исследования космического пространства.
+  19 августа 1960 года в 11:44 на космодроме Байконур был осуществлен успешный запуск космического корабля с площадки № 1. Кабину с собаками поместили в корабль за несколько часов до старта. Во время набора высоты у животных было зафиксировано учащенное дыхание и пульс, но они успокоились после выхода на орбиту. Тщательное наблюдение за состоянием и поведением Белки и Стрелки велось на протяжении всего полета. В космосе Белка и Стрелка чувствовали себя нормально. 20 августа 1960 года в 13:32 была дана команда к посадке корабля.</value>
+  </data>
+</root>

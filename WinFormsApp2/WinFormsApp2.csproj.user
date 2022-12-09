@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BebraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BelkaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HISTORIForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NachaloForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SSSForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZZZForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

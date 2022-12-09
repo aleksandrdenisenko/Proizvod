@@ -1,0 +1,66 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>  Юрий Алексеевич Гагарин появился на свет 9 марта 1934 года в обычной семье рабочих. Большую часть детства он провёл в городке Гжатске (теперь этот город в Смоленской области называется Гагарин) и соседних деревнях, пережил, будучи маленьким мальчиком, фашистскую оккупацию. В октябре 1955 года Гагарина призвали в вооружённые силы и направили в Чкалов (этот город сегодня называется Оренбург) в местное авиационное училище. Учился Гагарин у лётчика Ядкара Акбулатова, который в то время считался одним из лучших специалистов в своей сфере.
+  «Восток-1», пилотируемый Юрием Гагариным, стартовал с Байконура 12 апреля 1961 года в 09:07 (время московское). Руководителем старта являлся ракетный инженер Анатолий Кириллов — он давал команды по стадиям пуска ракеты и осуществлял контроль за их выполнением, следя за ситуацией из командной рубки. Как только ракета-носитель начала подъём, Гагарин сказал то самое знаменитое слово: «Поехали!».
+  Гагарин также провёл несколько экспериментов: поел, выпил воду, сделал пару записей простым карандашом. В какой-то момент он отпустил карандаш, и тот сразу же начал уплывать от него. Гагарин пришёл к выводу, что подобные вещи в невесомости следует фиксировать
+  В целом полёт прошёл спокойно, серьёзных нештатных ситуаций не случилось. Длительность этого полёта составила 108 минут, за это время корабль-спутник сделал один-единственный оборот вокруг земного шара.</value>
+  </data>
+</root>

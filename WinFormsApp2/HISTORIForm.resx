@@ -1,0 +1,72 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label4.Text" xml:space="preserve">
+    <value>  Первым идею полетов в космос высказал основоположник практической космонавтики, русский ученый Константин Циолковский (1857-1935).Идеи Циолковского начали воплощаться в 1933 году, 
+когда инженеры московской Группы изучения реактивного движения(ГИРД) под руководством Сергея Королева провели испытания экспериментальной ракеты на гибридном топливе ГИРД-09.
+  Она поднялась на высоту 400 м, всего находилась в полете 18 секунд.  В 1938 году работы по ракетам на жидком топливев СССР были прерваны в связи с арестом Королева. 
+К созданию баллистических ракет он вернулся только в 1945 году. Конструкторским бюро Королева из отечественных материалов на базе немецкой ракеты была разработана
+ ракета Р-1. С 1950 года,изучив все недостатки этой конструкции,коллектив Королева, с участием таких ученых, как Валентин Глушко, Николай Пилюгини, занялся ее коренной
+ переработкой .В 1949 году начались испытания Р-2, чья дальность увеличилась с 300 до 600 км. В 1955 году впервые стартовала советская стратегическая баллистическая ракета 
+Р-5М (8К51), а в 1957 году - межконтинентальная Р-7 (8К71).Космический аппарат получил название "Спутник-1". Чтобы не раскрывать индексы стоящей на вооружении
+ баллистической ракеты, ее также назвали "Спутник".Запуск первого искусственного спутника Земли позволил СССР захватить преимущество в космической гонке. 
+В 1959 году советский аппарат "Луна-3" первым запечатлел обратную сторону Луны;
+</value>
+  </data>
+</root>

@@ -1,0 +1,70 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>  Родилась Валентина Терешкова 6 марта 1937 года в селе Большое Масленниково недалеко от городка Тутаева, что в Ярославской области. Ее родители были простыми крестьянами, выходцами из Белоруссии. Отца звали Владимир Терешков, он работал на тракторе. В 1939-м был призван в ряды Красной армии, участвовал в войне против финнов, и погиб.
+  Валентина Терешкова – космонавт, летчик-космонавт СССР №6 с позывным «Чайка», в настоящее время политик. Имеет звание Героя Советского Союза. Новое увлечение Терешковой во многом предопределило ее дальнейшую жизнь. В голову Сергея Королева пришла оригинальная идея подготовить женщину-космонавта, чтобы еще больше укрепить авторитет советской космонавтики в мире.Полет в космос первой в мире женщины-космонавта состоялся 16 июня 1963 года и длился на протяжении трех суток. Терешкова пилотировала корабль «Восток-6», который стартовал с Байконура. С этого же космодрома когда-то взлетал Гагарин, но с основной площадки, а Валентине досталась дублирующая. За ее стартом следили специалисты высочайшего класса, но даже они не нашли ни одной погрешности в ее работе. Позже они пришли к мнению, что она справилась с задачей лучше, чем многие мужчины-космонавты.
+  Это был первый и последний полет Валентины Терешковой. После этого она продолжала работать в качестве инструктора-космонавта, потом в должности старшего научного сотрудника Центра подготовки космонавтов. Терешкова стала студенткой Военно-воздушной инженерной академии им.Жуковского, получила звание профессор, стала автором более пятидесяти научных публикаций.
+
+
+
+
+</value>
+  </data>
+</root>
